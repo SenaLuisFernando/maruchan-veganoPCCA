@@ -841,7 +841,7 @@ section {
 # Call To Action Section
 --------------------------------------------------------------*/
 .call-to-action .container {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/cta-bg.jpg") center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/fondo\ ciberacoso.png") center center;
   background-size: cover;
   padding: 100px 60px;
   border-radius: 15px;
@@ -1478,6 +1478,9 @@ section {
   height: 100%;
   position: relative;
   border-radius: 15px;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
 }
 
 .pricing h3 {
